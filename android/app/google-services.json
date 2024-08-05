@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114650111407",
+    "project_id": "wv-fb-miner",
+    "storage_bucket": "wv-fb-miner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114650111407:android:13b7516428295af7fae35a",
+        "android_client_info": {
+          "package_name": "com.example.fb_miner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8Mo3BAVi_Z4iMW8JIF__rBK6zSsQwNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
